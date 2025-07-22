@@ -1,0 +1,9 @@
+.banner {
+  background-image: linear-gradient(
+    to_right,
+    _rgb(255, 249_, 229_, 0.2),
+    _rgb(247, 201_, 72, 0.7),
+    _rgb(182, 134, 44, 0.7),
+    _rgb(13, 13, 13, 0.7)
+  );
+}

@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.container {
+  padding: 1.5rem;
+}
+.banner_text {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+}
